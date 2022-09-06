@@ -1,4 +1,4 @@
-# Cs-go > Valorant # 
+![#f03c15]## Cs-go > Valorant ## `#f03c15` 
 
 First repo git
 
