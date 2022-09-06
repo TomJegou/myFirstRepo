@@ -6,11 +6,12 @@ First repo git
 
 https://www.youtube.com/watch?v=kWg5xhx0C2Q
 
-[![](https://jolstatic.fr/www/captures/4612/8/142928.jpg)](https://www.youtube.com/watch?v=1pInbUESRQ4)
+[![](https://jolstatic.fr/www/captures/4612/8/142928.jpg)](https://youtu.be/1pInbUESRQ4?t=113)
 
 ```
 print("Counter-Strike for life")
 ```
+
 
 ```
 shutdown now
