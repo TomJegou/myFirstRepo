@@ -16,4 +16,4 @@ print("Counter-Strike for life")
 shutdown now
 ```
 
-||Message secret||
+|||Message secret|||
