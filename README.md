@@ -7,3 +7,7 @@ First repo git
 https://www.youtube.com/watch?v=kWg5xhx0C2Q
 
 [![](https://jolstatic.fr/www/captures/4612/8/142928.jpg)](https://www.youtube.com/watch?v=1pInbUESRQ4)
+
+```
+print("Counter-Strike for life)
+```
