@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=kWg5xhx0C2Q
 print("Counter-Strike for life")
 ```
 
-``` bash
+``` Bash
 shutdown now
 ```
-
-<!-- This is commented out. -->
