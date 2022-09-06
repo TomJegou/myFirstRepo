@@ -19,3 +19,5 @@ shutdown now
 |||Message secret|||
 
 /secret I'm scared of heights
+
+<!-- This is commented out. -->
